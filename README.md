@@ -5,7 +5,7 @@
 This command will start a local server with the prod build and with the service worker running
 `npm run localProd`
 or
-``yarn localProd
+`yarn localProd`
 
 ### Start cypress
 After the local server is started; run this command to start the cypress tests
